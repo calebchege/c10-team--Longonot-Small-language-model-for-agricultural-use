@@ -1,0 +1,9 @@
+pandas
+torch
+transformers
+peft
+datasets
+accelerate
+bitsandbytes>=0.46.1
+torchao>=0.16.0
+python-Levenshtein
