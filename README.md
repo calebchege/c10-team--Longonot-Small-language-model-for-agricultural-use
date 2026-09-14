@@ -1,6 +1,6 @@
 # SLM for Agriculture and Climate
 
-Fine-tuning a small language model (SLM) to generate concise, factsheet-grounded answers to smallholder farmers' agricultural questions, built for the [Agriculture & Climate SLM Challenge](https://www.kaggle.com/competitions/agriculture-climate-slm-challenge) on Kaggle. To access the data click on the link and accept terms and conditions after reviewing them.
+Fine-tuning a small language model (SLM) to generate concise, factsheet-grounded answers to smallholder farmers' agricultural questions, built for the [Agriculture & Climate SLM Challenge](https://www.kaggle.com/competitions/agriculture-climate-slm-challenge) on Kaggle. To access the data click on the link and accept terms and conditions after reviewing them. The data is not included to the terms from the competitions.
 
 ## Dataset
 
